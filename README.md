@@ -38,7 +38,6 @@ The dataset includes information about:
 - **Pandas** – Data manipulation & analysis
 - **NumPy** – Numerical operations
 - **Matplotlib & Seaborn** – Data visualization
-- **Plotly** – Interactive charts
 
 ## 📊 Key Insights
 - **The majority of content is** **Movies**
