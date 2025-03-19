@@ -40,9 +40,9 @@ The dataset includes information about:
 - **Matplotlib & Seaborn** – Data visualization
 - **Plotly** – Interactive charts
 
-## 📊 Insights & Findings
+## 📊 Key Insights
 - **The majority of content is** **Movies**
-- **The most popular genres are** **Drama, Comedy, and Action**
-- **The highest number of movies/TV shows were released in** **2019, 2020, and 2021**
-- **The platform adds more content from** **United States, India, and United Kingdom**
-- **Popular ratings include** **TV-MA, PG-13, and R**
+- **The most popular genres are** **International Movies, Drama, and TV Shows**
+- **The highest number of movies/TV shows were released in** **2019 and 2020**
+- **The platform adds more content from** **United States and India**
+- **Popular ratings include** **TV-MA and TV-14**
