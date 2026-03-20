@@ -1,4 +1,4 @@
-# **Global Streaming Platform: Data Exploration & Visualization**
+# **Global Streaming Platform: Data Exploration & Visualization** 
 
 ## 📌 Project Overview
 This project explores a dataset of movies and TV shows available on a global streaming platform. Using Python libraries, we analyze content trends, identify key insights, and visualize patterns to understand content distribution and popularity.
